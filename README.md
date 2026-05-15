@@ -1,17 +1,17 @@
-#📌 PROJECT TITLE
+# 📌 PROJECT TITLE
 
 Automating the Clinical Data Pipeline: CDISC-Compliant ETL and Macro Validation Framework
 
 ---
 
-##📌 DESCRIPTION
+## 📌 DESCRIPTION
 
 This project simulates a clinical data engineering pipeline using SAS Base Programming.
 It demonstrates how raw clinical data can be transformed into clean, analysis-ready datasets using automated ETL logic.
 
 ---
 
-##📌 OBJECTIVES
+## 📌 OBJECTIVES
 
 Import raw clinical datasets (Excel/TXT)
 Clean and validate patient data
@@ -23,7 +23,7 @@ Generate final analysis dataset
 
 ---
 
-##📌 TOOLS USED
+## 📌 TOOLS USED
 
 SAS Base Programming (SAS OnDemand for Academics)
 PROC IMPORT, PROC SORT, DATA step
@@ -31,7 +31,7 @@ Arrays, DO loops, MACRO, FORMAT, INPUT/PUT functions
 
 ---
 
-##📌 PIPELINE STRUCTURE
+## 📌 PIPELINE STRUCTURE
 
 Data Import
 Data Cleaning
@@ -44,7 +44,7 @@ Final Output Generation
 
 ---
 
-##📌 RESULTS
+## 📌 RESULTS
 
 Successfully processed raw clinical datasets
 Identified abnormal clinical values:
@@ -56,5 +56,5 @@ Produced final validated dataset ready for analysis
 
 ---
 
-##📌 AUTHORS
+## 📌 AUTHORS
 Susanna SMBATYAN and Sergey BOYAKHCHYAN
