@@ -117,6 +117,22 @@ merge dm_clean(in=a)
 by USUBJID;
 
 if a and b;
+
+label
+USUBJID = "Unique Subject Identifier"
+NAME = "Patient Name"
+AGE = "Patient Age"
+SEX = "Patient Sex"
+VISITNUM = "Visit Number"
+RESULT = "Visit Result"
+TEMP = "Body Temperature"
+HR = "Heart Rate"
+WEIGHT = "Patient Weight"
+FLAG = "Age Validation Flag"
+TEMP_FLAG = "Temperature Anomaly Flag"
+HR_FLAG = "Heart Rate Anomaly Flag"
+WT_FLAG = "Weight Anomaly Flag"
+AGEGR = "Age Group";
 run;
 
 
