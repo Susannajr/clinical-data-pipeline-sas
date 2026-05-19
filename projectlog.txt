@@ -1,0 +1,432 @@
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              255.78k
+      OS Memory           21920.00k
+      Timestamp           15/05/2026 09:06:37 AM
+      Step Count                        149  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 13:06:37
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              256.59k
+      OS Memory           21920.00k
+      Timestamp           15/05/2026 09:06:50 AM
+      Step Count                        172  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 13:06:50
+
+      Page Swaps                        0
+      Voluntary Context Switches        5
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              256.46k
+      OS Memory           21920.00k
+      Timestamp           15/05/2026 09:07:09 AM
+      Step Count                        195  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 13:07:09
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              255.65k
+      OS Memory           21152.00k
+      Timestamp           15/05/2026 10:21:24 AM
+      Step Count                        40  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+10                                                        Le Système SAS                              vendredi 15 mai 2026 14:21:24
+
+      Voluntary Context Switches        5
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              255.56k
+      OS Memory           21408.00k
+      Timestamp           15/05/2026 11:04:05 AM
+      Step Count                        40  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     17
+      Page Swaps                        0
+10                                                        Le Système SAS                              vendredi 15 mai 2026 15:04:05
+
+      Voluntary Context Switches        5
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.01 seconds
+      system cpu time     0.00 seconds
+      memory              257.00k
+      OS Memory           26792.00k
+      Timestamp           15/05/2026 11:07:09 AM
+      Step Count                        89  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 15:07:09
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              257.50k
+      OS Memory           28328.00k
+      Timestamp           15/05/2026 11:15:13 AM
+      Step Count                        174  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 15:15:13
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              258.21k
+      OS Memory           28840.00k
+      Timestamp           15/05/2026 11:16:37 AM
+      Step Count                        199  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 15:16:37
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              257.46k
+      OS Memory           28840.00k
+      Timestamp           15/05/2026 11:18:21 AM
+      Step Count                        230  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 15:18:21
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              258.78k
+      OS Memory           28840.00k
+      Timestamp           15/05/2026 11:19:30 AM
+      Step Count                        255  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+10                                                        Le Système SAS                              vendredi 15 mai 2026 15:19:30
+
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              256.90k
+      OS Memory           20896.00k
+      Timestamp           15/05/2026 12:30:13 PM
+      Step Count                        40  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+10                                                        Le Système SAS                              vendredi 15 mai 2026 16:30:13
+
+      Voluntary Context Switches        5
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              257.87k
+      OS Memory           21152.00k
+      Timestamp           15/05/2026 12:32:49 PM
+      Step Count                        40  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+10                                                        Le Système SAS                              vendredi 15 mai 2026 16:32:49
+
+      Voluntary Context Switches        6
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+250        
+251        /* rerun code here */
+252        /* return log */
+253        
+254        proc printto;
+255        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              257.56k
+      OS Memory           21152.00k
+      Timestamp           18/05/2026 09:27:19 AM
+      Step Count                        40  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+      Voluntary Context Switches        5
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+266        
+267        /* rerun code here */
+268        /* return log */
+269        
+270        proc printto;
+271        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              255.65k
+      OS Memory           21408.00k
+      Timestamp           18/05/2026 11:51:06 AM
+      Step Count                        40  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+266        
+267        /* rerun code here */
+268        /* return log */
+269        
+270        proc printto;
+271        run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              261.00k
+      OS Memory           25000.00k
+      Timestamp           18/05/2026 11:56:43 AM
+      Step Count                        61  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+74         
+75         /* rerun code here */
+76         /* return log */
+77         
+78         proc printto;
+79         run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              280.40k
+      OS Memory           19104.00k
+      Timestamp           19/05/2026 11:21:19 AM
+      Step Count                        24  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     23
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+75         
+76         /* rerun code here */
+77         /* return log */
+78         
+79         proc printto;
+80         run;
+
+NOTE: PROCEDURE PRINTTO a utilisé (Durée totale du traitement) :
+      real time           0.00 seconds
+      user cpu time       0.00 seconds
+      system cpu time     0.00 seconds
+      memory              261.00k
+      OS Memory           21152.00k
+      Timestamp           19/05/2026 11:24:38 AM
+      Step Count                        61  Switch Count  0
+      Page Faults                       0
+      Page Reclaims                     16
+      Page Swaps                        0
+      Voluntary Context Switches        4
+      Involuntary Context Switches      0
+      Block Input Operations            0
+      Block Output Operations           0
+      
+
+266        
+267        /* rerun code here */
+268        /* return log */
+269        
+270        proc printto;
+271        run;
+
